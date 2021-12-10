@@ -1,5 +1,5 @@
 # log4j2_burp_scan
-自用脚本log4j2 被动 burp rce扫描工具 get post cookie 全参数识别，在ceye.io api速率限制下，最大线程扫描每一个参数
+自用脚本log4j2 被动 burp rce扫描工具 get post cookie 全参数识别，在ceye.io api速率限制下，最大线程扫描每一个参数，记录过已检测地址，重复地址
 
 ![image](https://user-images.githubusercontent.com/50195525/145595971-b9de921f-112b-4b5b-8da4-70246fe0d7c8.png)
 
