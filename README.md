@@ -4,7 +4,9 @@
 ![image](https://user-images.githubusercontent.com/50195525/145595971-b9de921f-112b-4b5b-8da4-70246fe0d7c8.png)
 
 ![image](https://user-images.githubusercontent.com/50195525/145596091-aae11539-4566-403c-acb8-4a9b005d930c.png)
-token替换为你自己的http://ceye.io/ tkoen即可
+![image](https://user-images.githubusercontent.com/50195525/145597555-fe1aac93-9d33-44d4-aff6-997e33e67bf2.png)
+
+token替换为你自己的http://ceye.io/ token 和域名地址
 ![image](https://user-images.githubusercontent.com/50195525/145596378-610449c5-6693-48e7-bbac-db182cead42b.png)
 不要忘了设置这个
 
