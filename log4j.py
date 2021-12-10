@@ -237,7 +237,7 @@ class BurpExtender(IBurpExtender, IMessageEditorTabFactory, IContextMenuFactory,
 
         # 多线程跑每个payload
         threads = []
-        for i in range(4):
+        for i in range(3):
             t = Thread(target=self.checkInject, args=(parameterRCEsQueue, ))
             t.start()
             threads.append(t)
